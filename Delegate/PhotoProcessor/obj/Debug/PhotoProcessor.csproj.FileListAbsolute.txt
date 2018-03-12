@@ -1,0 +1,6 @@
+c:\users\sachin\documents\visual studio 2015\Projects\PhotoProcessor\PhotoProcessor\bin\Debug\PhotoProcessor.exe.config
+c:\users\sachin\documents\visual studio 2015\Projects\PhotoProcessor\PhotoProcessor\bin\Debug\PhotoProcessor.exe
+c:\users\sachin\documents\visual studio 2015\Projects\PhotoProcessor\PhotoProcessor\bin\Debug\PhotoProcessor.pdb
+c:\users\sachin\documents\visual studio 2015\Projects\PhotoProcessor\PhotoProcessor\obj\Debug\PhotoProcessor.csprojResolveAssemblyReference.cache
+c:\users\sachin\documents\visual studio 2015\Projects\PhotoProcessor\PhotoProcessor\obj\Debug\PhotoProcessor.exe
+c:\users\sachin\documents\visual studio 2015\Projects\PhotoProcessor\PhotoProcessor\obj\Debug\PhotoProcessor.pdb
